@@ -1,0 +1,5 @@
+# DENKPAUSE app-ads.txt
+# Für Google AdMob
+
+# AdMob Publisher ID
+pub-[YOUR_ADMOB_PUBLISHER_ID]
